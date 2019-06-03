@@ -1,0 +1,5 @@
+/* app css stylesheet */
+
+[ng-view] {
+  margin: 0 30px;
+}
